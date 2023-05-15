@@ -1,0 +1,571 @@
+{
+    "id": "9ad98b0a54a70599",
+    "slug": "gpu-prices",
+    "trashed": false,
+    "description": "",
+    "likes": 11,
+    "publish_level": "live",
+    "forks": 6,
+    "fork_of": null,
+    "has_importers": false,
+    "update_time": "2023-03-20T08:53:36.892Z",
+    "first_public_version": 1014,
+    "paused_version": null,
+    "publish_time": "2023-03-20T08:52:25.931Z",
+    "publish_version": 1016,
+    "latest_version": 1016,
+    "thumbnail": "481152a68ba2e06003a28c5984b5321fa6199e0d96f77972ad6a31fd31ff7930",
+    "default_thumbnail": "031a6144436acc492fbdc2b47a76c0003e20486b7b8eecfa867c974d92c03397",
+    "roles": [],
+    "sharing": null,
+    "tags": [],
+    "owner": {
+        "id": "99a8bdc597ff2a52",
+        "github_login": "keckelt",
+        "avatar_url": "https://avatars.observableusercontent.com/avatar/a1598d25fc8c1da134d5a7a27c8d24e7f6efae101ae0ad590352a3dadffd6382",
+        "login": "keckelt",
+        "name": "Klaus Eckelt",
+        "bio": "Visual Data Science at the Johannes Kepler University Linz, Austria.",
+        "home_url": "https://eckelt.info/",
+        "type": "individual",
+        "tier": "public",
+        "following_count": 2,
+        "followers_count": 0,
+        "following": false
+    },
+    "creator": {
+        "id": "99a8bdc597ff2a52",
+        "github_login": "keckelt",
+        "avatar_url": "https://avatars.observableusercontent.com/avatar/a1598d25fc8c1da134d5a7a27c8d24e7f6efae101ae0ad590352a3dadffd6382",
+        "login": "keckelt",
+        "name": "Klaus Eckelt",
+        "bio": "Visual Data Science at the Johannes Kepler University Linz, Austria.",
+        "home_url": "https://eckelt.info/",
+        "tier": "public",
+        "following_count": 2,
+        "followers_count": 0,
+        "following": false
+    },
+    "authors": [
+        {
+            "id": "99a8bdc597ff2a52",
+            "avatar_url": "https://avatars.observableusercontent.com/avatar/a1598d25fc8c1da134d5a7a27c8d24e7f6efae101ae0ad590352a3dadffd6382",
+            "name": "Klaus Eckelt",
+            "login": "keckelt",
+            "bio": "Visual Data Science at the Johannes Kepler University Linz, Austria.",
+            "home_url": "https://eckelt.info/",
+            "github_login": "keckelt",
+            "tier": "public",
+            "approved": true,
+            "description": "",
+            "following_count": 2,
+            "followers_count": 0,
+            "following": false
+        }
+    ],
+    "collections": [
+        {
+            "id": "ea8328700e248089",
+            "type": "public",
+            "slug": "technology",
+            "title": "Technology",
+            "description": "Tools enable us to be more productive. As data permeates every aspect of the technology space, Observable’s community is creating notebooks to make working with data more collaborative. ",
+            "update_time": "2022-11-30T19:42:02.710Z",
+            "pinned": false,
+            "ordered": false,
+            "custom_thumbnail": null,
+            "default_thumbnail": "0f541ec5ae13990adf1321007963cf059207fb6f952c0f116aba9ad781662361",
+            "thumbnail": "0f541ec5ae13990adf1321007963cf059207fb6f952c0f116aba9ad781662361",
+            "listing_count": 8,
+            "parent_collection_count": 2,
+            "owner": {
+                "id": "f35c755083683fe5",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e",
+                "login": "observablehq",
+                "name": "Observable",
+                "bio": "Use data to think, together.",
+                "home_url": "https://observablehq.com",
+                "type": "team",
+                "tier": "pro_enterprise",
+                "following_count": 0,
+                "followers_count": 437,
+                "following": false
+            }
+        }
+    ],
+    "files": [
+        {
+            "id": "1a1c881b21c4d81a549e50a5a6052dbb78e3dea06ca20e14fb02ae3ef9cb3c4eafa531e3a97f84865e6030e2ddd4db9151ce6868437e5ceda2fdd65c89207b0f",
+            "url": "https://static.observableusercontent.com/files/1a1c881b21c4d81a549e50a5a6052dbb78e3dea06ca20e14fb02ae3ef9cb3c4eafa531e3a97f84865e6030e2ddd4db9151ce6868437e5ceda2fdd65c89207b0f",
+            "download_url": "https://static.observableusercontent.com/files/1a1c881b21c4d81a549e50a5a6052dbb78e3dea06ca20e14fb02ae3ef9cb3c4eafa531e3a97f84865e6030e2ddd4db9151ce6868437e5ceda2fdd65c89207b0f?response-content-disposition=attachment%3Bfilename*%3DUTF-8%27%27query.json",
+            "name": "query.json",
+            "create_time": "2022-02-16T17:37:27.676Z",
+            "mime_type": "application/json",
+            "status": "public",
+            "size": 99822,
+            "content_encoding": "gzip",
+            "private_bucket_id": null
+        },
+        {
+            "id": "535e676dd1a909a349003be56229882477f5578bc68ea97b07f3c6390d36157729a30ced5e15dc844fe1b74f4dde455f29860921af85b0368cf3428d457e1735",
+            "url": "https://static.observableusercontent.com/files/535e676dd1a909a349003be56229882477f5578bc68ea97b07f3c6390d36157729a30ced5e15dc844fe1b74f4dde455f29860921af85b0368cf3428d457e1735",
+            "download_url": "https://static.observableusercontent.com/files/535e676dd1a909a349003be56229882477f5578bc68ea97b07f3c6390d36157729a30ced5e15dc844fe1b74f4dde455f29860921af85b0368cf3428d457e1735?response-content-disposition=attachment%3Bfilename*%3DUTF-8%27%27query%25401.json",
+            "name": "query@1.json",
+            "create_time": "2022-04-28T17:18:10.924Z",
+            "mime_type": "application/json",
+            "status": "public",
+            "size": 98696,
+            "content_encoding": "gzip",
+            "private_bucket_id": null
+        },
+        {
+            "id": "65e69cc8382514184d45da4e933b0d75a78d3f7f51285b19a78373e7821ac6e61d03408c5b69544de3e22642040c8fdd6760f3063241117de15805896295f4b5",
+            "url": "https://static.observableusercontent.com/files/65e69cc8382514184d45da4e933b0d75a78d3f7f51285b19a78373e7821ac6e61d03408c5b69544de3e22642040c8fdd6760f3063241117de15805896295f4b5",
+            "download_url": "https://static.observableusercontent.com/files/65e69cc8382514184d45da4e933b0d75a78d3f7f51285b19a78373e7821ac6e61d03408c5b69544de3e22642040c8fdd6760f3063241117de15805896295f4b5?response-content-disposition=attachment%3Bfilename*%3DUTF-8%27%27query%25402.json",
+            "name": "query@2.json",
+            "create_time": "2022-10-10T08:41:53.343Z",
+            "mime_type": "application/json",
+            "status": "public",
+            "size": 112356,
+            "content_encoding": "gzip",
+            "private_bucket_id": null
+        }
+    ],
+    "comments": [],
+    "commenting_lock": null,
+    "suggestion_from": null,
+    "suggestions_to": [],
+    "version": 1016,
+    "title": "NVIDIA RTX 3000 Prices",
+    "license": null,
+    "copyright": "",
+    "nodes": [
+        {
+            "id": "e21b4f77-6752-48db-b374-3dc561943e4e",
+            "name": "",
+            "value": "const monthlyRent = 500;\n\nconst yearlyRent = monthlyRent * 12;\nconsole.log(yearlyRent);\nreturn yearlyRent\n\n",
+            "mode": "javascript",
+            "outputs": []
+        },
+        {
+            "id": "3be4ba87-1d4c-4181-8274-2e57f399d190",
+            "name": "",
+            "value": "\n// var can be reassigned and redeclared\nvar color = 'red';\n// color = 'blue';\n// var color = 'gold';\nreturn color;\n",
+            "mode": "javascript",
+            "outputs": []
+        },
+        {
+            "id": "a8f11d6c-4bfd-4b76-822c-758efd09755a",
+            "name": "",
+            "value": "\n\nconst url = 'https://eckelt.info/gpu-price-scraper/nvidia.csv'\n\nconst data = d3.csv(url, (d) => {\n    return {\n      model: d.model,\n      name: d.name,\n      price: parseFloat(d.price),\n      shop: d.shop,\n      datetime: new Date(d.datetime)\n    };\n  })\n\n\nconst base_data = data\n.filter((d) => d.price>0 && d.price<4000)\n.filter((d) => !(d.model==='RTX 3090' && d.price<400))\n.filter((d) => !(d.model==='RTX 3060 Ti' && d.price>2000))\n\n\nconst valid_data = base_data\n.filter((d) => \n        !(filter.some((d) => d === 'Bundles') && d.name.toLowerCase().includes('bundle')) &&\n        !(filter.some((d) => d === 'Founders Edition Cards') && d.name.toLowerCase().includes('founders')) &&\n        !(filter.some((d) => d === 'B-Stock') && d.name.toLowerCase().includes('b-ware')))\n\n(plot === 'ticks' ? vl.markTick({ tooltip: true }) : vl.markBoxplot({ tooltip: true }))\n  .data(valid_data)\n  .width(600)\n  .encode(\n    vl.x().fieldQ('price').axis({ grid: false }).title('Price'),\n    vl.y().fieldN('model').title('Model'),\n    vl.color().fieldN('model').scale({domain: colors.map((d) => d.name), range: colors.map((d) => d.color)}),\n    vl.tooltip([vl.field('name'), vl.field('price'), vl.field('shop')])\n  )\n  .title('Price Distribution')\n  .config({ view: { stroke: null }})\n  .render({renderer: 'svg'});\n\n",
+            "mode": "javascript",
+            "outputs": []
+        },
+        {
+            "id": 0,
+            "name": "",
+            "value": "# NVIDIA RTX 3000 Prices\nThis notebook summarizes the recent prices of NVIDIA GPUs in Germany, based on availability postings at **[Hardwareluxx](https://www.hardwareluxx.de/community/forums/verf%C3%BCgbarkeitshinweise.338/)**.  \nBig thanks to them and the community there 💐\n\n* GPU price data is scraped ~~nightly~~ and fetched from: https://github.com/keckelt/gpu-price-scraper/tree/gh-pages.\n  <span style=\"color: #33a02c\">As of September 2022, the data is no longer updated nightly.</span>\n* ETH price data is still fetched manually from coinbase.\n  Leave me a comment if you know a good free API for that.\n\n\nThere were already *${data.length}* postings on available GPUs.\n  ",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 481,
+            "name": "",
+            "value": "Given the current shortage of GPUs, lets assume there were merely 2 cards behind every posting.\nThis leads to a total of **€ ${d3.format(\",.2f\")(base_data.reduce((acc, d) => acc + d.price*2, 0))}** 💰",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 762,
+            "name": null,
+            "value": "viewof filter = Inputs.checkbox([\"Founders Edition Cards\", \"Bundles\", \"B-Stock\"], {label: \"Exclude\"})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 814,
+            "name": "",
+            "value": "After some data cleaning and the applying the filters above (if any), there are *${valid_data.length}* posts remaining.",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 168,
+            "name": null,
+            "value": "vl.markBar()\n  .data(valid_data)\n  .width(600)\n  .encode(\n    vl.x().count().title('Postings').axis({ grid: false}),\n    vl.y().fieldN('model'),\n    vl.color().fieldN('model').scale({domain: colors.map((d) => d.name), range: colors.map((d) => d.color)}),\n  ).config({ view: { stroke: null }})\n  .render({renderer: 'svg'});",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 201,
+            "name": "",
+            "value": "## 💶 Prices\nOverall, prices vary only little. But some outliers are good deals and even cheaper than the next slower models.",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 213,
+            "name": null,
+            "value": "viewof plot = Inputs.radio([\"ticks\", \"boxplot\"], {label: \"Select Plot Type\", value: 'ticks'})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 182,
+            "name": null,
+            "value": "(plot === 'ticks' ? vl.markTick({ tooltip: true }) : vl.markBoxplot({ tooltip: true }))\n  .data(valid_data)\n  .width(600)\n  .encode(\n    vl.x().fieldQ('price').axis({ grid: false }).title('Price'),\n    vl.y().fieldN('model').title('Model'),\n    vl.color().fieldN('model').scale({domain: colors.map((d) => d.name), range: colors.map((d) => d.color)}),\n    vl.tooltip([vl.field('name'), vl.field('price'), vl.field('shop')])\n  )\n  .title('Price Distribution')\n  .config({ view: { stroke: null }})\n  .render({renderer: 'svg'});",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 662,
+            "name": "",
+            "value": "Prices are high due to the shortage of semiconductors and the cards are also well suited for minig cryptocurrency - Ethereum specifically.\n\nWe can see that the prices are pretty stable over the last year, despite the introduction of Lite Hash Rate (LHR) cards. The Ethereum (ETH) price is added as a dashed line for reference.",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 226,
+            "name": null,
+            "value": "viewof gpu_view = embed({\n  $schema: 'https://vega.github.io/schema/vega-lite/v5.json',\n  width: 600,\n  title: 'Price Development',\n  layer: [\n    {\n      data: {values: valid_data},\n      transform: [\n        {filter: \"datum.price !== null\"},\n        {timeUnit: \"year\", field: \"Year\", as: \"year\"},\n        {\n          window: [\n            {op: \"mean\", field: \"price\", as: \"avg_price\"}\n          ],\n          sort: [{field: \"datetime\", order: \"ascending\"}],\n          ignorePeers: false,\n          groupby: ['model'],\n          frame: [-100, 0]\n        }\n      ],\n      mark: 'line',\n      encoding: {\n        x: {field: 'datetime', type: 'temporal', timeUnit: 'yearmonthdate', title: 'Date', axis: {format: \"%b\", grid: false}},\n        y: {field: 'avg_price', type: 'quantitative', aggregate: 'mean', axis: {grid: false}, title: 'Price'},\n        color: {field: 'model', type: 'nominal', scale: {domain: colors.map((d) => d.name), range: colors.map((d) => d.color)}},\n        tooltip: [{field: 'model', type: 'nominal'}]\n      }\n    }, \n    {\n      data: {values: [\n        {date: '2021-06-01', text: 'LHR models are introduced'},\n        {date: '2022-09-15', text: 'Proof-of-stake merge'}\n      ]},\n      encoding: {\n        x: {field: \"date\", type: \"temporal\"}\n      },\n      layer: [\n        {\n          mark: { type: 'rule', strokeDash: [3,3]}\n        }, {\n          mark: {type: \"text\", align: \"left\", dx: 5},\n          encoding: {\n            text: {field: \"text\", type: \"nominal\"},\n            y: {value: 15}\n          }\n        }\n      ]\n    },\n    {\n      data: {values: eth_data},\n      mark: { type: 'line', color: 'black', strokeDash: [1,3]},\n      encoding: {\n        x: {field: 'datetime', type: 'temporal', title: 'Date'},\n        y: {field: 'price', type: 'quantitative'}\n      },\n    },\n    {\n      data: {values: eth_data},\n      mark: { type: 'text'},\n      encoding: {\n        x: {value: 465},\n        y: {value: 20},\n        text: {value: 'ETH'}\n      },\n    },\n  ],\n  config: {\n    view: {stroke: null}\n  },\n  // pass options to Vega-Embed\n  usermeta: {\n    embedOptions: {\n      renderer: 'svg',\n    }\n  }\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 372,
+            "name": "",
+            "value": "## 😈 Want To Make A Deal?\nWould you like to know if you get a card for good price?\nEnter the model and price below and see how likely it was to get a cheaper card up to now.",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 379,
+            "name": null,
+            "value": "viewof model = Inputs.radio(['RTX 3050','RTX 3060','RTX 3060 Ti','RTX 3070','RTX 3070 Ti','RTX 3080','RTX 3080 Ti','RTX 3090'], {label: \"Select Model\", value: 'RTX 3070'})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 384,
+            "name": null,
+            "value": "viewof price = Inputs.range([100, 4000], {value: 870, step: 1, label: \"Price\"})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 793,
+            "name": null,
+            "value": "viewof start = Inputs.date({label: \"Starting with\"})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 461,
+            "name": "",
+            "value": "${d3.format(\".3n\")(100*(timed_data.filter((d) => d.model === model).filter((d) => d.price < price).length/timed_data.filter((d) => d.model === model).length))}% of the posted *${model}* cards were cheaper.",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 388,
+            "name": null,
+            "value": "vl.layer(\n  // vl.markBar()\n  //   .data(valid_data.filter((d) => d.model === model))\n  //   .encode(\n  //     vl.x().fieldQ('price').bin({ extent: [0, 4000], maxbins: 40 }).title('Price'),\n  //     vl.y().count(),\n  //     vl.color().value('grey')\n  //   )\n  //   .width(600)\n  //   .height(150)\n  //   .config({ view: { stroke: null }}),\n  vl.markBar()\n    .data(timed_data.filter((d) => d.model === model))\n    .encode(\n      vl.x().fieldQ('price').bin({ extent: [0, 4000], maxbins: 40 }).title('Price'),\n      vl.y().count(),\n      vl.color().value(colors.find((d) => d.name === model).color)\n    )\n    .width(600)\n    .height(150)\n    .config({ view: { stroke: null }}),\n  vl.markRule({size: 2, color: '#666'})\n    .data([{price: price}])\n    .encode(\n      vl.x().fieldQ('price')\n    ),\n  vl.markText({dx: 15})\n    .data([{price: price}])\n    .encode(\n      vl.x().fieldQ('price'),\n      vl.y().value(10),\n      vl.text().field('price')\n    )\n)\n  .title(model+' Price Distribution')\n  .render({renderer: 'svg'});",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 573,
+            "name": null,
+            "value": "viewof gpu_trend = embed({\n  $schema: 'https://vega.github.io/schema/vega-lite/v5.json',\n  width: 600,\n  title: 'Price Development',\n  layer: [\n    {\n      data: {values: timed_data.filter((d) => d.model === model)},\n      mark: {type: 'circle', size: 15},\n      encoding: {\n        x: {field: 'datetime', type: 'temporal', title: 'Date', axis: {format: \"%d %m %Y\", grid: false}},\n        y: {field: 'price', type: 'quantitative', axis: {grid: false}, title: 'Price'},\n        color: {field: 'model', type: 'nominal', scale: {domain: colors.map((d) => d.name), range: colors.map((d) => d.color)}, legend: null},\n        tooltip: [{field: 'name', type: 'nominal'}, {field: 'price', type: 'quantitative'}, {field: 'model', type: 'nominal'}, {field: 'shop', type: 'nominal'}, {field: 'datetime', type: 'temporal'}]\n      }\n    },\n    {\n      data: {values: timed_data.filter((d) => d.model === model)},\n      transform: [\n        {filter: \"datum.price !== null\"},\n        {timeUnit: \"year\", field: \"Year\", as: \"year\"},\n        {\n          window: [\n            {op: \"mean\", field: \"price\", as: \"avg_price\"}\n          ],\n          sort: [{field: \"datetime\", order: \"ascending\"}],\n          ignorePeers: true,\n          frame: [-100, 0]\n        }\n      ],\n      layer: [{\n        mark: {type: \"line\", color: 'black', strokeWidth: 4},\n        encoding: {\n          x: {field: 'datetime', type: 'temporal', timeUnit: 'yearmonthdate', title: 'Date', axis: {format: \"%b\", grid: false}},\n          y: {\n            field: \"avg_price\",\n            aggregate: 'mean',\n            type: \"quantitative\"\n          }\n        }\n      },\n      {\n        mark: {type: \"line\"},\n        encoding: {\n          x: {field: 'datetime', type: 'temporal', timeUnit: 'yearmonthdate', title: 'Date', axis: {format: \"%b\", grid: false}},\n          y: {\n            field: \"avg_price\",\n            aggregate: 'mean',\n            type: \"quantitative\"\n          },\n          color: {field: 'model', type: 'nominal', scale: {domain: colors.map((d) => d.name), range: colors.map((d) => d.color)}},\n        }\n      }\n    ]\n    }, {\n      data: {values: [{price: price}]},\n      mark: {type: 'rule', strokeDash: [3,3]},\n        encoding: {\n          y: {\n            field: \"price\",\n            type: \"quantitative\"\n          }\n        }\n    }, {\n      data: {values: [{price: price}]},\n      mark: {type: 'text', dy: -5, fontWeight: 'bold'},\n        encoding: {\n          y: {\n            field: \"price\",\n            type: \"quantitative\"\n          },\n          text: {\n            field: \"price\",\n            type: \"quantitative\"\n          },\n          x: {\n            value: 20\n          }\n        }\n    }\n  ],\n  config: {\n    view: {stroke: null}\n  },\n  // pass options to Vega-Embed\n  usermeta: {\n    embedOptions: {\n      renderer: 'svg'\n    }\n  }\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 153,
+            "name": "",
+            "value": "## 🤿 Deep Dive \nYou can get details on every card/posting in the table below. \n\nWith the column headers you can filter, sort, and group the data.",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 565,
+            "name": null,
+            "value": "viewof card_name = Inputs.text({label: html`<b>Card Name:</b>`, placeholder: \"Enter a card name to filter the table\"})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 39,
+            "name": null,
+            "value": "viewof selection = {\n  const b = builder(valid_data.filter((d) => d.name.toLowerCase().includes(card_name.toLowerCase())));\n  b\n    .column(LineUpJS.buildDateColumn('datetime').label('Date'))\n    .column(LineUpJS.buildCategoricalColumn('model', colors).width(140))\n    .column(LineUpJS.buildNumberColumn('price', [0,4000]))\n    .column(LineUpJS.buildStringColumn('name').width(400))\n    .column(LineUpJS.buildCategoricalColumn('shop').width(180));\n\n    // and two rankings\n  const ranking = LineUpJS.buildRanking()\n    .supportTypes()\n    .allColumns() // add all columns\n    .sortBy('datetime', 'desc');\n\n  b.sidePanel(false)\n  b.ranking(ranking);\n  return b.build();\n}",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 969,
+            "name": "",
+            "value": "## 🕙 Timing",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 925,
+            "name": "",
+            "value": "The majority of the cards are posted during working hours:",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 845,
+            "name": null,
+            "value": "viewof drops = embed({\n  \"$schema\": \"https://vega.github.io/schema/vega-lite/v5.json\",\n  title: 'Time of New Drops',\n  data: {values: valid_data},\n  spacing: 15,\n  bounds: \"flush\",\n  vconcat: [{\n    mark: {type: \"bar\", color: '#4d4d4d'},\n    height: 60,\n    width: 500,\n    encoding: {\n      x: {field: 'datetime', type: 'temporal', timeUnit: 'day', title: 'Day', axis: null},\n      y: { aggregate: \"count\", title: \"\" }\n    }\n  }, {\n    spacing: 15,\n    bounds: \"flush\",\n    hconcat: [{\n      mark: \"rect\",\n      width: 500,\n      height: 300,\n      encoding: {\n        x: {field: 'datetime', type: 'temporal', timeUnit: 'day', title: 'Day', axis: {format: \"%A\", grid: false, labelAlign: 'left', tickCount: 7, labelBound: true}},\n        y: {field: 'datetime', type: 'temporal', timeUnit: 'hours', title: 'Hour', axis: {format: \"%H:%M\", grid: false, labelBound: true}},\n        color: {aggregate: \"count\", scale: {scheme: 'greys'}},\n        tooltip: [\n        {field: 'datetime', type: 'temporal', timeUnit: 'day', title: 'Day'},\n        {field: 'datetime', type: 'temporal', timeUnit: 'hours', title: 'Hour'},\n        {aggregate: \"count\"}\n        ]\n      }\n    }, {\n      mark: {type: \"bar\", color: '#4d4d4d'},\n      width: 60,\n      height: 300,\n      encoding: {\n        y: {field: 'datetime', type: 'temporal', timeUnit: 'hours', title: 'Hour', axis: null},\n        x: {aggregate: \"count\", title: \"\" }\n      }\n    }]\n  }],\n  config: {\n    view: {stroke: null}\n  },\n  // pass options to Vega-Embed\n  usermeta: {\n    embedOptions: {\n      renderer: 'svg'\n    }\n  }\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 937,
+            "name": "",
+            "value": "For the *Founders Edition* however, Tuesday 10am is a hot tip. But overall, there were just ${base_data.filter((d) => d.name.toLowerCase().includes('founders')).length} posts for Founders Edition cards.",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 931,
+            "name": null,
+            "value": "viewof dropsFE = embed({\n  \"$schema\": \"https://vega.github.io/schema/vega-lite/v5.json\",\n  title: 'Time of New Drops - Founders Edition',\n  data: {values: base_data.filter((d) => d.name.toLowerCase().includes('founders'))},\n  spacing: 15,\n  bounds: \"flush\",\n  vconcat: [{\n    mark: {type: \"bar\", color: '#4d4d4d'},\n    height: 30,\n    width: 500,\n    encoding: {\n      x: {field: 'datetime', type: 'temporal', timeUnit: 'day', title: 'Day', axis: null},\n      y: { aggregate: \"count\", title: \"\" }\n    }\n  }, {\n    spacing: 15,\n    bounds: \"flush\",\n    hconcat: [{\n      mark: \"rect\",\n      width: 500,\n      height: 200,\n      encoding: {\n        x: {field: 'datetime', type: 'temporal', timeUnit: 'day', title: 'Day', axis: {format: \"%A\", grid: false, labelAlign: 'left', tickCount: 7, labelBound: true}},\n        y: {field: 'datetime', type: 'temporal', timeUnit: 'hours', title: 'Hour', axis: {format: \"%H:%M\", grid: false, labelBound: true}},\n        color: {aggregate: \"count\", scale: {scheme: 'greys'}},\n        tooltip: [\n        {field: 'datetime', type: 'temporal', timeUnit: 'day', title: 'Day'},\n        {field: 'datetime', type: 'temporal', timeUnit: 'hours', title: 'Hour'},\n        {aggregate: \"count\"}\n        ]\n      }\n    }, {\n      mark: {type: \"bar\", color: '#4d4d4d'},\n      width: 30,\n      height: 200,\n      encoding: {\n        y: {field: 'datetime', type: 'temporal', timeUnit: 'hours', title: 'Hour', axis: null},\n        x: {aggregate: \"count\", title: \"\" }\n      }\n    }]\n  }],\n  config: {\n    view: {stroke: null}\n  },\n  // pass options to Vega-Embed\n  usermeta: {\n    embedOptions: {\n      renderer: 'svg'\n    }\n  }\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 692,
+            "name": "",
+            "value": "It also doesn't matter much what day of the week you order.",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 668,
+            "name": null,
+            "value": "viewof price_per_day = embed({\n  $schema: 'https://vega.github.io/schema/vega-lite/v5.json',\n  width: 600,\n  title: 'Price Development per Day',\n  data: {values: valid_data},\n  mark: {type: 'line', point: true, tooltip: true},\n  encoding: {\n    x: {field: 'datetime', type: 'temporal', timeUnit: 'day', title: 'Date', axis: {format: \"%A\", grid: false}},\n    y: {field: 'price', type: 'quantitative', axis: {grid: false}, title: 'Price', aggregate: 'mean'},\n    color: {field: 'model', type: 'nominal', scale: {domain: colors.map((d) => d.name), range: colors.map((d) => d.color)}}\n  },\n  config: {\n    view: {stroke: null}\n  },\n  // pass options to Vega-Embed\n  usermeta: {\n    embedOptions: {\n      renderer: 'svg'\n    }\n  }\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 8,
+            "name": "",
+            "value": "### 🍤 Appendix\nFeel free to ignore; does: data loading + cleaning, importing libs, etc.",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 545,
+            "name": null,
+            "value": "colors = [\n  {name: 'RTX 3050', color: '#b15928'},\n  {name: 'RTX 3060', color: '#a6cee3'},\n  {name: 'RTX 3060 Ti', color: '#1f78b4'},\n  {name: 'RTX 3070', color: '#b2df8a'},\n  {name: 'RTX 3070 Ti', color: '#33a02c'},\n  {name: 'RTX 3080', color: '#fdbf6f'},\n  {name: 'RTX 3080 Ti', color: '#ff7f00'},\n  {name: 'RTX 3090', color: '#6a3d9a'}\n]",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 743,
+            "name": "",
+            "value": "#### Data",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 12,
+            "name": null,
+            "value": "url = 'https://eckelt.info/gpu-price-scraper/nvidia.csv'",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 25,
+            "name": null,
+            "value": "data = d3.csv(url, (d) => {\n  return {\n    model: d.model,\n    name: d.name,\n    price: parseFloat(d.price),\n    shop: d.shop,\n    datetime: new Date(d.datetime)\n  };\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 307,
+            "name": null,
+            "value": "// TODO: fetch with gpu prices\n// currently from coinbase: https://www.coinbase.com/de/price/ethereum\n// https://www.coinbase.com/graphql/query?&operationName=useGetPricesForAssetPageQuery&extensions={\"persistedQuery\":{\"version\":1,\"sha256Hash\":\"59282a0565bfbdc0477f69ad3ae4b687c93d75c808445386bfbfa70be7b4a976\"}}&variables={\"skip\":false,\"uuid\":\"d85dce9b-5b73-5c3c-8978-522ce1d1c1b4\",\"currency\":\"EUR\"}\neth = FileAttachment(\"query@2.json\").json()",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 313,
+            "name": null,
+            "value": "eth_data = eth.data.assetBySlug.all.quotes.map((d) => {\n  return {\n    price: parseFloat(d.price),\n    datetime: new Date(d.timestamp)\n  };\n}).filter((d) => d.datetime >= new Date('2021-05-01'))",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 737,
+            "name": "",
+            "value": "**Data cleaning**",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 139,
+            "name": null,
+            "value": "base_data = data\n.filter((d) => d.price>0 && d.price<4000)\n.filter((d) => !(d.model==='RTX 3090' && d.price<400))\n.filter((d) => !(d.model==='RTX 3060 Ti' && d.price>2000))",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 766,
+            "name": null,
+            "value": "filter",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 782,
+            "name": null,
+            "value": "valid_data = base_data\n.filter((d) => \n        !(filter.some((d) => d === 'Bundles') && d.name.toLowerCase().includes('bundle')) &&\n        !(filter.some((d) => d === 'Founders Edition Cards') && d.name.toLowerCase().includes('founders')) &&\n        !(filter.some((d) => d === 'B-Stock') && d.name.toLowerCase().includes('b-ware')))",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 797,
+            "name": null,
+            "value": "timed_data = valid_data\n  .filter((d) => d.datetime > start)",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 749,
+            "name": "",
+            "value": "#### Imports",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 21,
+            "name": null,
+            "value": "import { builder, LineUpJS, asLineUp } from '@sgratzl/lineup-js-observable-library'",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 164,
+            "name": null,
+            "value": "import {vl} from '@vega/vega-lite-api-v5'",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 237,
+            "name": null,
+            "value": "embed = require(\"vega-embed@6\")",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 735,
+            "name": "",
+            "value": "## Updates\n### 2022-10-10\n\nAdded note on discontinued data scraping.  \nUpdated ETH data.\n\n### 2022-04-28\nAdapted structure slightly.\nUpdated ETH data ([manually from Coinbase](https://www.coinbase.com/price/ethereum)).\n\n### 2022-02-24\nAdded an overview for the time of drops.\n\nAdditional Filters:\n* Option to remove B-Stock\n* Date input to reduce time frame for price comparison\n\n### 2022-02-21\nAdditional Data Cleaning:\n* Removed RTX 3090 listings below 400€ as those are water coolers for the card.\n* Removed RTX 3060 Ti listings over 2000€\n* Checkboxes to filter Founders Edition cards and bundles.\n\n\nThanks for [the feedback](https://www.hardwareluxx.de/community/threads/ampere-smalltalk-thread-startpost-lesen-handel-nur-im-marktplatz-keine-botanfragen.1289859/page-2729#post-29066404).\n\n\n### 2022-02-18\nAdapted colors after reading [10 ways to use fewer colors in your data visualizations](https://blog.datawrapper.de/10-ways-to-use-fewer-colors-in-your-data-visualizations/#2). Cards of the  same tier (*30x0* and *30x0 Ti*) now have the same hue, but different shades.",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 957,
+            "name": null,
+            "value": "",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        }
+    ],
+    "resolutions": []
+}

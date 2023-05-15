@@ -1,0 +1,20 @@
+{
+    "id": "e5d020be-17ed-4132-9024-c00a1df3402c",
+    "files": [],
+    "nodes": [
+        {
+            "id": "c8f5057b-d1bd-4f0f-bf45-8d522b4aee49",
+            "name": "",
+            "value": "const monthlyRent = 500;\n\nconst yearlyRent = monthlyRent * 12;\nconsole.log(yearlyRent);\nreturn yearlyRent",
+            "mode": "javascript",
+            "outputs": []
+        },
+        {
+            "id": "be6644af-f729-47b5-8432-7068421e7eca",
+            "name": "",
+            "value": "// monthlyRent = 500;\n\n// yearlyRent = monthlyRent * 12;\n// console.log(yearlyRent);\n// return yearlyRent",
+            "mode": "js",
+            "outputs": []
+        }
+    ]
+}
